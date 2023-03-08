@@ -17,7 +17,7 @@ public class Main implements Serializable {
     }
 
     private void menu() {
-        println("[0] Read file from JSON");
+        println("[0] Read file from JSON))");
         println("[1] Read file from Binary");
         println("[2] Show all entries");
         println("[3] Filter products by name");
